@@ -1,0 +1,10 @@
+webservice_demoapp\dao\UserDao.class
+webservice_demoapp\dao\UserDao_Impl$1.class
+webservice_demoapp\dao\UserDao_Impl.class
+webservice_demoapp\config\WebConfig.class
+webservice_demoapp\dao\UserDao_Impl$Mapper.class
+webservice_demoapp\model\User.class
+webservice_demoapp\service\UserService_Impl.class
+webservice_demoapp\service\UserService.class
+webservice_demoapp\controller\UserController.class
+webservice_demoapp\config\WebInitializer.class
